@@ -1,0 +1,14 @@
+.addPerson {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin: 20px;
+    align-self: self-end;
+}
+
+.inputBox {
+    margin: 8px;
+    width: 250px;
+    padding: 5px;
+}
